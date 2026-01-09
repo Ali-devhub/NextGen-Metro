@@ -1,0 +1,2 @@
+const String welcomText = 'Unlock the doors to a treasure trove of knowledge and cultural wonders as you discover the captivating realm of museums,where history, art, and human stories await to be unveiled.';
+const String baseUrl = 'http://10.169.134.125:3000';
